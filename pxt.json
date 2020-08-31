@@ -11,9 +11,8 @@
         "README.md",
         "main.py"
     ],
-    "targetVersions": {
-        "target": "3.0.19",
-        "pxt": "6.0.19"
-    },
-    "preferredEditor": "blocksprj"
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
 }
